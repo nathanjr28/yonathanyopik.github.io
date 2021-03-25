@@ -1,0 +1,29 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #aceeeb;
+}
+
+#project {
+    background-color: #aceeeb;
+}
+
+#contact {
+    background-color: #aceeeb;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+.card {
+    box-shadow: 0px 0px 5px 5px #333333;
+}
+
+textarea {
+    resize: none;
+    box-shadow: 0px 0px 1px 1px #333333;
+}
+
+input {
+    box-shadow: 0px 0px 1px 1px #333333;
+}
